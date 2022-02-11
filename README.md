@@ -6,7 +6,7 @@
 I'm building React apps, Vue apps.
 
 Skills: REACT / JS / HTML / CSS
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40' background: 'none'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='10'></a> 
 
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
