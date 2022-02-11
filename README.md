@@ -6,14 +6,11 @@
 I'm building React apps, Vue apps.
 
 Skills: REACT / JS / HTML / CSS
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40' background='var(--color-canvas-default)'></a> 
 
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: kkhlevnyy@mail.ru 
 
-
- 
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgy1705)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Listopad02&theme=solarized_dark)
