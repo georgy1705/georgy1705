@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Georgy
 #### I am beginner frontend developer
-![I am beginner frontend developer](https://user-images.githubusercontent.com/61185560/152961959-eb604526-017b-4ff7-968f-058d186a0bb7.png)
+![I am beginner frontend developer](https://media.proglib.io/wp-uploads/2019/01/CoM-The-Ultimate-Front-End-Development-Bundle-1280x660.jpg)
 
 
 I'm building React apps, Vue apps.
