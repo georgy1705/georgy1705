@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Georgy
 #### I am junior frontend developer
-![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend.png)
+![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png)
 
 
 I'm building React apps, Vue apps.
