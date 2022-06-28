@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Georgy
 ### I am junior frontend developer
-<img  style="width: 450px; height: 230px" src="https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png">
+<img  style="width: 280px; height: 250px" src="https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png">
 
 
 ### My Skills 💻
