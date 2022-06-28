@@ -12,7 +12,9 @@ Skills:
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
 
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/harish-sethuraman/readme-components)
+[![Experience component](https://readme-components.vercel.app/api?component=experience&company=E5NG)](https://github.com/harish-sethuraman/readme-components)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgy1705&theme=solarized_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgy1705&theme=solarized_dark)
