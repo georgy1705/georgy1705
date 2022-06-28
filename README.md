@@ -1,9 +1,9 @@
-## Hi there 👋, my name is Georgy
-### I am junior frontend developer
+# Hi there 👋, my name is Georgy
+## I am junior frontend developer
 <img  style="width: 280px; height: 250px" src="https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png">
 
 
-### My Skills 💻
+## My Skills 💻
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
 <p align="left" style="margin-bottom: 100px;">
@@ -15,7 +15,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
-### :purple_heart:
+## :purple_heart:
 
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
