@@ -3,13 +3,11 @@
 ![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png)
 
 
-##### I'm building React apps, Vue apps.
-
 
 ### My Skills 💻
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
-<p align="left" mb={10}>
+<p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
@@ -18,7 +16,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
-
+### :purple_heart:
 
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
