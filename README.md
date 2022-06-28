@@ -9,11 +9,13 @@ I'm building React apps, Vue apps.
 ### My Skills 💻
 
 <p align="left">
-<!-- ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin) -->
-<img  src="https://readme-components.vercel.app/api?component=logo&skill=HTML&value=80&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=logo&skill=CSS&value=70&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=logo&skill=JS&value=50&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=logo&skill=GIT&value=70&design=candy&fill=ff69b4">
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
 
