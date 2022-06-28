@@ -18,8 +18,10 @@
 
 ### :purple_heart:
 
+<p>
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
+</p>
 
 
 
