@@ -3,7 +3,7 @@
 ![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png)
 
 
-###### I'm building React apps, Vue apps.
+##### I'm building React apps, Vue apps.
 
 
 ### My Skills 💻
