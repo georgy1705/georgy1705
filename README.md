@@ -1,16 +1,15 @@
-### Hi there 👋, my name is Georgy
-#### I am junior frontend developer
+## Hi there 👋, my name is Georgy
+### I am junior frontend developer
 ![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png)
 
 
 I'm building React apps, Vue apps.
 
-#### Skills: 
 
-## My Skills 💻
+### My Skills 💻
 
 <p align="left">
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+<!-- ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin) -->
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
