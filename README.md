@@ -5,12 +5,20 @@
 
 I'm building React apps, Vue apps.
 
-Skills: 
+#### Skills: 
 
+## My Skills 💻
+
+<p align="left">
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
+</p>
+
 
 - 🌱 I’m currently learning Vue JS 
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
 - 📫 How to reach me: shimgk1705@gmail.com
 
 
