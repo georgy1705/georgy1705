@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Georgy
 ### I am junior frontend developer
-![I am junior frontend developer](https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png)
-
+![I am junior frontend developer]
+<img  style="width: 300px;" src="https://github.com/georgy1705/georgy1705/blob/main/Frontend1.png">
 
 
 ### My Skills 💻
@@ -18,10 +18,8 @@
 
 ### :purple_heart:
 
-<p>
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
-</p>
 
 
 
