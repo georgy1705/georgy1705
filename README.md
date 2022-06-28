@@ -10,10 +10,10 @@ I'm building React apps, Vue apps.
 
 <p align="left">
 <!-- ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin) -->
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=logo&skill=HTML&value=80&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=logo&skill=CSS&value=70&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=logo&skill=JS&value=50&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=logo&skill=GIT&value=70&design=candy&fill=ff69b4">
 </p>
 
 
