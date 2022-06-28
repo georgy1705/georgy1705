@@ -8,8 +8,8 @@ I'm building React apps, Vue apps.
 
 ### My Skills 💻
 
-<p align="left">
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+<p align="left">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
@@ -18,10 +18,11 @@ I'm building React apps, Vue apps.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </p>
 
-
+<p></p>
 - 🌱 I’m currently learning Vue JS 
 - 📫 How to reach me: shimgk1705@gmail.com
-
+<p></p>
+<p></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgy1705&theme=solarized_dark)](https://github.com/anuraghazra/github-readme-stats)
