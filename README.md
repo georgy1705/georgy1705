@@ -17,7 +17,7 @@
 
 ## :purple_heart:
 
-- 🌱 I’m currently learning Vue JS 
+- 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me: shimgk1705@gmail.com
 
 
